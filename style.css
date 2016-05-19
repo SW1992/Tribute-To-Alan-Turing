@@ -1,0 +1,42 @@
+img {
+  width: 100%;
+}
+li {
+padding: 5px 5px 5px 5px; 
+font-size: 1.25em; 
+}
+p {
+font-size: 1.25em;
+}
+body {
+  font-family: 'Lobster', serif;
+}
+ul {
+margin: 0;
+list-style-type: none;
+}
+#wiki {
+  margin-left: 25px;
+}
+blockquote {
+  font-family:'Indie Flower', cursive;
+}
+#alquote {
+  font-family: 'Indie Flower', cursive;
+}
+pre {
+  font-family: 'Lobster', serif;
+  font-size: 1.25em;
+  white-space: pre-wrap; /* CSS 3 */
+  white-space: -moz-pre-wrap;  
+  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      
+  /* Opera 4-6 */
+    white-space: -o-pre-wrap;    
+  /* Opera 7 */
+    word-wrap: break-word;       
+  /* Internet Explorer 5.5+ */ 
+  
+  /* sorts text wrapping in different browsers */
+} 
+
